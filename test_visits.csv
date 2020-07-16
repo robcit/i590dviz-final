@@ -1,0 +1,4 @@
+,location_id,visits
+0,1,"{'ABCD': 9, 'DEFG': 8, 'ASDF': 6}"
+1,2,"{'XYZR': 4, 'ABCD': 4}"
+2,3,{'ASDF': 4}
